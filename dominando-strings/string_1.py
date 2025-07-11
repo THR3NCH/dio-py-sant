@@ -1,4 +1,4 @@
-nome = "Luan"
+nome = "Bruna"
 
 print(nome.upper())
 print(nome.lower())
@@ -13,3 +13,6 @@ print(texto.rstrip() + ".")  # Remove espaços no fim
 menu = "Python"
 
 print("####" + menu + "####")
+print(menu.center(14))
+print("-".join(menu))
+curso = "Python"
